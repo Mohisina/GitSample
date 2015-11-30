@@ -17,6 +17,7 @@ public class GitSample
 	{
 		System.out.println("Hello new");
 		System.out.println("This is my new GIT sample java program");
+		System.out.println("This change is from console");
 
 	}
 
